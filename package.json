@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/CSE-landosprouse/basketball-central-backend#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "dotenv": "^18.0.9",
+    "express": "^5.2.1",
+    "mongoose": "^9.11.4"
   }
 }
